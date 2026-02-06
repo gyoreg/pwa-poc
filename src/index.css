@@ -1,0 +1,9 @@
+/* Reset box sizing for all elements */
+* {
+  box-sizing: border-box;
+}
+
+/* Remove default margin from the body */
+body {
+  margin: 0;
+}
